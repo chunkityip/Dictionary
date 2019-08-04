@@ -1,3 +1,3 @@
-# Mini-Project
+# Dictionary
 
-Here is the English dictionary application base ony Python and Json file call Data.json
+Here is the basic English dictionary application base ony Python and Json file call Data.json
